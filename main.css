@@ -11,6 +11,14 @@
 				text-align: center;
 			}
 
+#h1
+			{
+				color: black;
+				font-family: Helvetica;
+				font-size: 36pt;
+				text-align: center;
+			}
+
 .body
 			{
 				background:white;
