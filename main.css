@@ -3,12 +3,18 @@
 				width: 80%;
 				margin: 100px auto;	
 			}
-#h1
+#h3
 			{
 				color: black;
 				font-family: Helvetica;
-				font-size: 36pt;
+				font-size: 20pt;
 				text-align: center;
+			}
+
+.body
+			{
+				background:white;
+				font-family: sans-serif;
 			}
 
 .allign
@@ -26,7 +32,7 @@
 				border: 20px solid gray;
 			}
 
-#background-color
+.bold
 			{
-				background-color: yellow;
+				font-style: bold; 
 			}
