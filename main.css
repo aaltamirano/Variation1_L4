@@ -3,6 +3,13 @@
 				width: 80%;
 				margin: 100px auto;	
 			}
+#h1
+			{
+				color: black;
+				font-family: Helvetica;
+				font-size: 36pt;
+				text-align: center;
+			}
 
 .allign
 			{
@@ -22,11 +29,4 @@
 #background-color
 			{
 				background-color: yellow;
-			}
-#h1
-			{
-				color: black;
-				font-family: Helvetica;
-				font-size: 36pt;
-				text-align: center;
 			}
